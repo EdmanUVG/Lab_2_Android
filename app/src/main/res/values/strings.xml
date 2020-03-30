@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab_2_Android</string>
+    <string name="toast_msg">Campo vacio</string>
+</resources>
